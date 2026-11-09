@@ -1,0 +1,18 @@
+# captured faces, trained model, attendance database
+data/
+*.yml
+*.db
+*.csv
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+.vscode/
+.idea/
+.DS_Store

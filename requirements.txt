@@ -1,0 +1,4 @@
+# The contrib wheel is required: cv2.face lives there, and the plain
+# opencv-python package does not ship it.
+opencv-contrib-python>=4.9
+numpy>=1.24
